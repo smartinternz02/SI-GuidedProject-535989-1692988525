@@ -1,7 +1,7 @@
 # SI-GuidedProject-535989-1692988525
 Unveiling the Virtual Classroom: An In-depth Analysis of the Online Education System
 
-Description: As I have successfully completed Bootcamp 1 of IBM Virtual Build-a-thon 2023 a project is completed with the guidance of smartInternz and IBM under IBM Virtual Faculty Build-a-thon 2023 program. The dataset used in project has been analysed on IBM Cognos analytics. IBM Cognos provides a full feature cloud-based platform for data analysis process for creation of dashboard, story and reports.
+Description: As I have successfully completed Bootcamp 1 of IBM Virtual Build-a-thon 2023 a project is finished with the guidance of smartInternz and IBM under the IBM Virtual Faculty Build-a-thon 2023 program. The dataset used in the project has been analyzed on IBM Cognos analytics. IBM Cognos provides a full-feature cloud-based platform for data analysis process for dashboard, story, and report creation.
 
 ALL Project Files  https://drive.google.com/drive/folders/1RgYmXg71Re4DzyRThC4ZcAy05HlcLOWB?usp=sharing
 
@@ -19,7 +19,7 @@ Journey to Cloud: Envisioning Your Solution https://www.credly.com/badges/1b7d19
 
 Getting Started with Enterprise Data Science  https://www.credly.com/badges/11efd14a-220b-4d2e-8e66-3a643bd19420/public_url
 
-Follwing Bootstrap template has been utilized for this project.
+Following Bootstrap template has been utilized for this project.
 
 Template Name: FlexStart
 Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
