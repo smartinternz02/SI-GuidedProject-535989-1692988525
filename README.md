@@ -5,6 +5,12 @@ ALL Project Files  https://drive.google.com/drive/folders/1RgYmXg71Re4DzyRThC4Zc
 
 Dataset  https://drive.google.com/file/d/1stStcFZXD198JRQFGYoohHhy1vveE_6m/view?usp=sharing
 
+Report Link: https://us3.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FNew%2Breport&action=run&format=HTML&prompt=false
+
+Story Link: https://us3.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FNew%2Bstory&action=view&sceneId=model0000018a2c0b9136_00000000&sceneTime=0
+
+Dashboard Link: https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FNew%2Bdashboard&action=view&mode=dashboard&subView=model0000018a23338a82_00000000
+
 Certifications:
 
 Journey to Cloud: Envisioning Your Solution https://www.credly.com/badges/1b7d1988-a7e3-460d-806a-99f3c22a67be/public_url
