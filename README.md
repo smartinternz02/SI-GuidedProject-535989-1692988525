@@ -1,7 +1,7 @@
 # SI-GuidedProject-535989-1692988525
 Unveiling the Virtual Classroom: An In-depth Analysis of the Online Education System
 
-Description: As I have successfully completed Bootcamp 1 of IBM Virtual Build-a-thon 2023 a project is finished with the guidance of smartInternz and IBM under the IBM Virtual Faculty Build-a-thon 2023 program. The dataset used in the project has been analyzed on IBM Cognos analytics. IBM Cognos provides a full-feature cloud-based platform for data analysis process for dashboard, story, and report creation.
+Description: As I have successfully completed Data analytics Bootcamp 1 of IBM Virtual Build-a-thon 2023 a project is finished with the guidance of smart Internz and IBM under the IBM Virtual Faculty Build-a-thon 2023 program. The dataset used in the project has been analyzed on IBM Cognos analytics. IBM Cognos provides a full-feature cloud-based platform for data analysis process for dashboard, story, and report creation.
 
 ALL Project Files  https://drive.google.com/drive/folders/1RgYmXg71Re4DzyRThC4ZcAy05HlcLOWB?usp=sharing
 
