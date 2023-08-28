@@ -22,6 +22,7 @@ Getting Started with Enterprise Data Science  https://www.credly.com/badges/11ef
 The following Bootstrap template has been utilized for this project.
 
 Template Name: FlexStart
+
 Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
 
 Author: BootstrapMade.com
