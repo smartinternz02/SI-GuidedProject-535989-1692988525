@@ -19,6 +19,8 @@ Output: https://drive.google.com/file/d/1mgVIetdr0VGweHcIcm3JRoiOc4T6-IlY/view?u
 
 Project Report: https://drive.google.com/file/d/1gc3694gVGPCsEFNRdZRY2yvlB4bfe6hR/view?usp=sharing
 
+Demo Link: https://drive.google.com/file/d/1QGQuX8mMyWsKHAYAfORVYKZZBB7NIC-C/view?usp=sharing
+
 Certifications:
 
 Journey to Cloud: Envisioning Your Solution https://www.credly.com/badges/1b7d1988-a7e3-460d-806a-99f3c22a67be/public_url
