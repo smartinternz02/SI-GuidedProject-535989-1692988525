@@ -13,6 +13,12 @@ Story Link: https://us3.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_f
 
 Dashboard Link: https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FNew%2Bdashboard&action=view&mode=dashboard&subView=model0000018a23338a82_00000000
 
+Dashboard, Report and Story Pdf:  https://drive.google.com/drive/folders/1X5clNfdPiMykYQ14uMj-IeWh-KWARE4k?usp=sharing
+
+Output: https://drive.google.com/file/d/1mgVIetdr0VGweHcIcm3JRoiOc4T6-IlY/view?usp=sharing
+
+Project Report: https://drive.google.com/file/d/1gc3694gVGPCsEFNRdZRY2yvlB4bfe6hR/view?usp=sharing
+
 Certifications:
 
 Journey to Cloud: Envisioning Your Solution https://www.credly.com/badges/1b7d1988-a7e3-460d-806a-99f3c22a67be/public_url
